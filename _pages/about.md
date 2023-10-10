@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
- I am a Research Assistant at Universidad de Piura (UDEP). I got my degree in economics at PUCP. Additionally, I worked with [Alexander Quispe](https://alexanderquispe.github.io/) as a Teaching Assistant in the course Causal Inference and Machine Learning. I have helped him to develop the [Causal Inference and Machine Learning Bookdown](https://alexanderquispe.github.io/ml_book/), which covers novel estimation methods in <code>R</code> and <code>Python</code>. My main fields of interest are microeconomics, causal inference and machine learning. 
+ I am currently pursuing my master's degree in Economics at the University of Warwick. Prior to this, I worked as a Research Assistant at Universidad de Piura (UDEP), and as a Teaching Assistant alongside [Alexander Quispe](https://alexanderquispe.github.io/) for the course Causal Inference and Machine Learning. I completed my undergraduate studies in Economics at Pontificia Universidad Católica del Perú (PUCP). Additionally, I have contributed to the development of the Causal Inference and Machine Learning Bookdown, focusing on innovative estimation methods in R and Python. My primary areas of academic interest encompass microeconomics, causal inference, and machine learning.
 
  In this site, you will find more about my research experience, code and writings.
