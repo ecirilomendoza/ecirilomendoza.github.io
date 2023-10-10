@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Elibeth Cirilo"
-  avatar           : "profile3.jpg"
+  avatar           : "profile.jpg"
   bio              : "A young researcher interested in microeconometrics, causal inference and machine learning related to development economics."
   location         : "Lima, Peru"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/elibeth-cirilo-mendoza"
+  linkedin         : "elibeth-cirilo-mendoza"
   orcid            :
   pinterest        :
   soundcloud       :
