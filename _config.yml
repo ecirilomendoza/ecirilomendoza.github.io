@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Elibeth Cirilo"
-  avatar           : "profile3.jpg"
+  avatar           : "profile3.heic"
   bio              : "A young researcher interested in microeconometrics, causal inference and machine learning related to development economics."
   location         : "Lima, Peru"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "e.cirilo@pucp.pe"
+  email            : "ecirilomendoza@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : www.linkedin.com/in/elibeth-cirilo-mendoza
   orcid            :
   pinterest        :
   soundcloud       :
